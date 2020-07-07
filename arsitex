@@ -1,0 +1,142 @@
+<html>
+ <head>
+  <title>Masukkan Kode Keamanan</title>
+  <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/O2aKM2iSbOw.png" rel="shortcut icon" sizes="196x196">
+  <meta name="referrer" content="default" id="meta_referrer">
+  <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yc/l/0,cross/eM0zsI8gpE3.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="h08AH">
+  <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yx/l/0,cross/6jsrsqhN8nN.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="lu+jQ">
+  <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/1CW6G52sSnO.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="6XfIr"> 
+  <link rel="manifest" href="/data/manifest/" crossorigin="use-credentials">
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/Fq2mkRT12mf.js?_nc_x=Ij3Wp8lg5Kz" rel="preload"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3i87l4/yM/l/id_ID/__9198r-lEO.js?_nc_x=Ij3Wp8lg5Kz" rel="preload"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/6KqFq7q8hV0.js?_nc_x=Ij3Wp8lg5Kz" rel="preload"> 
+ </head>
+ <body tabindex="0" class="touch x1-5 android _fzu _50-3 iframe acw portrait" style="min-height: 479px; background-color: rgb(255, 255, 255);"> 
+  <div id="viewport" data-kaios-focus-transparent="1" style="min-height: 479px;">
+   <h1 style="display:block;height:0;overflow:hidden;position:absolute;width:0;padding:0">Facebook</h1>
+   <div id="page">
+    <div class="_129_" id="header-notices"></div>
+    <div class="acw" id="root" role="main" data-sigil="context-layer-root content-pane" style="min-height: 479px;">
+     <div class="_7om2 _98fc" id="header">
+      <div class="_4g34">
+       <a href="/home.php">
+        <div class="_98d6">
+         <img class="_98d5 img" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg" alt="Facebook">
+        </div></a>
+       <hr style="background-color:#cccccc;height:1px;border:0px solid #fff;margin:0.3em auto;width:100%;" class="_98d7">
+      </div>
+     </div>
+     <div class="_7om2">
+      <div class="_4g34 _98fb">
+       <div class="_7v6_">
+        <form method="post" action="/recover/code/?ars=facebook_login_pw_error&amp;ph%5B0%5D=%2B%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A22&amp;rm=send_sms&amp;spc=0&amp;fl=skip_initiate_view&amp;try=1">
+         <input type="hidden" name="lsd" value="AVoNgf5O" autocomplete="off">
+         <input type="hidden" name="jazoest" value="2677" autocomplete="off">
+         <input type="hidden" name="ri">
+         <input type="hidden" name="rpm">
+         <input type="hidden" name="sr" value="">
+         <div class="hidden_elem" data-sigil="error_message"></div>
+         <section>
+          <section class="_2pif _2pia _2pio">
+           <section class="_6w7o">
+            <div>
+             Kami Mengirim Kode Anda ke:
+            </div>
+            <div>
+             <div>
+              +***********22
+             </div>
+            </div>
+           </section>
+          </section>
+          <section class="_2pi9 _2pim _6w7p _7bro">
+           <div>
+            Harap periksa pesan teks berisi kode di ponsel Anda. Kode Anda memiliki panjang 6 karakter.
+           </div>
+          </section>
+         </section>
+         <section class="_2pio _2pia">
+          <a class="_7brn" href="/login/forget_recovery/?next=%2Frecover%2Finitiate%2F%3Ffl%3Dskip_initiate_view">Belum menerima kode?</a>
+         </section>
+         <section class="_2pin _2pia _6w7o">
+          <div>
+           <strong>Masukkan kode 6 digit</strong>
+          </div>
+         </section>
+         <section class="_2pin _2pia">
+          <input autocorrect="off" autocapitalize="off" autocomplete="off" type="number" class="_4nyr _4nyq _7bri _85k-" name="n" placeholder="######" autofocus="1" data-sigil="code-input">
+         </section>
+         <div class="_2pin _2pi8 _7brk">
+          <button type="submit" value="Selanjutnya" class="_54k8 _52jh _56bs _56b_ _7brj _56bw _56bu" data-store="{&quot;nativeClick&quot;:true}" name="reset_action" data-sigil="touchable"><span class="_55sr">Selanjutnya</span></button>
+         </div>
+        </form>
+        <div class="_2pi8 _7brm">
+         <a href="/login/forget_recovery/?next=%2F" role="button" class="_54k8 _56bs _56b_ _7brl _56bw _56bt _52jh" data-sigil="touchable"><span class="_55sr">Batalkan</span></a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style="display:none">
+      <div></div>
+      <div></div>
+      <div></div>
+     </div>
+     <span><img src="https://facebook.com/security/hsts-pixel.gif?c=3.2" width="0" height="0" style="display:none"></span>
+    </div>
+    <div class=""></div>
+    <div class="viewportArea _2v9s" style="display:none" id="u_0_0" data-sigil="marea">
+     <div class="_5vsg" id="u_0_1" style="max-height: 160px;"></div>
+     <div class="_5vsh" id="u_0_2" style="max-height: 239px;"></div>
+     <div class="_5v5d fcg">
+      <div class="_2so _2sq _2ss img _50cg" data-animtype="1" data-sigil="m-loading-indicator-animate m-loading-indicator-root"></div>Memuat...
+     </div>
+    </div>
+    <div class="viewportArea aclb" id="mErrorView" style="display:none" data-sigil="marea">
+     <div class="container">
+      <div class="image"></div>
+      <div class="message" data-sigil="error-message"></div>
+      <a class="link" data-sigil="MPageError:retry">Coba Lagi</a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="static_templates">
+   <div class="mDialog" id="modalDialog" style="display:none" data-sigil=" context-layer-root" data-autoid="autoid_1">
+    <div class="_52z5 _451a mFuturePageHeader _1uh1 firstStep titled" id="mDialogHeader">
+     <div class="_7om2 _52we">
+      <div class="_5s61">
+       <div class="_52z7">
+        <button type="submit" value="Batalkan" class="cancelButton btn btnD bgb mfss touchable" id="u_0_4" data-sigil="dialog-cancel-button">Batalkan</button>
+        <button type="submit" value="Kembali" class="backButton btn btnI bgb mfss touchable iconOnly" aria-label="Kembali" id="u_0_5" data-sigil="dialog-back-button"><i class="img sp_SgxN6m2Os3B_1_5x sx_1b614f" style="margin-top: 2px;"></i></button>
+       </div>
+      </div>
+      <div class="_4g34">
+       <div class="_52z6">
+        <div class="_50l4 mfsl fcw" id="m-future-page-header-title" role="heading" tabindex="0" data-sigil="m-dialog-header-title dialog-title">
+         Memuat...
+        </div>
+       </div>
+      </div>
+      <div class="_5s61">
+       <div class="_52z8" id="modalDialogHeaderButtons"></div>
+      </div>
+     </div>
+    </div>
+    <div class="modalDialogView" id="modalDialogView"></div>
+    <div class="_5v5d _5v5e fcg" id="dialogSpinner">
+     <div class="_2so _2sq _2ss img _50cg" data-animtype="1" id="u_0_3" data-sigil="m-loading-indicator-animate m-loading-indicator-root"></div>Memuat...
+    </div>
+   </div>
+  </div> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yc/l/0,cross/eM0zsI8gpE3.css?_nc_x=Ij3Wp8lg5Kz" as="style"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yx/l/0,cross/6jsrsqhN8nN.css?_nc_x=Ij3Wp8lg5Kz" as="style"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/1CW6G52sSnO.css?_nc_x=Ij3Wp8lg5Kz" as="style"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/Ho7IpEoe3xB.js?_nc_x=Ij3Wp8lg5Kz" as="script" nonce="Nui9ywY4"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/0TQ3z2Msqov.js?_nc_x=Ij3Wp8lg5Kz" as="script" nonce="Nui9ywY4"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3ijea4/yM/l/id_ID/3eVp6kI-6UJ.js?_nc_x=Ij3Wp8lg5Kz" as="script" nonce="Nui9ywY4"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/ZFrppiy7AjB.js?_nc_x=Ij3Wp8lg5Kz" as="script" nonce="Nui9ywY4"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/Fq2mkRT12mf.js?_nc_x=Ij3Wp8lg5Kz" as="script" nonce="Nui9ywY4"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3i87l4/yM/l/id_ID/__9198r-lEO.js?_nc_x=Ij3Wp8lg5Kz" as="script" nonce="Nui9ywY4"> 
+ </body>
+</html>
